@@ -1,25 +1,11 @@
-Expo Snack / Expo project for the Kalori Simulator
+# Sample Snack app
 
-Files:
-- App.js : React Native app (Expo) implementing the simulator UI and Calc button
-- package.json : minimal package declaring Expo dependency
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-Run locally (if you have Node.js + Expo CLI installed):
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-1) Install Expo CLI if you don't have it:
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-   npm install -g expo-cli
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
-2) From the `expo_snack` folder install dependencies:
-
-   npm install
-
-3) Start the project:
-
-   npm start
-
-This will open the Expo DevTools; you can run on a connected device or emulator, or open the project in Snack by copying `App.js` into https://snack.expo.dev/.
-
-Notes:
-- The `package.json` uses Expo SDK 48 as an example; adjust versions if you need a different SDK.
-- For quick testing, just paste `App.js` into an online Snack at https://snack.expo.dev/ and run in the browser or device.
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
